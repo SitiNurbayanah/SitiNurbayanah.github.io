@@ -6,15 +6,15 @@
 
 ## Deskripsi Umum
 
-     Pada program dari soal pertama Ujian Akhir Semester mata kuliah Dasar Pemrograman kali ini,
+  Pada program dari soal pertama Ujian Akhir Semester mata kuliah Dasar Pemrograman kali ini,
   pada soal pertama saya akan membuat program implementasi array 2 dimensi untuk membuat tabel
   bilangan dengan menginputkan jumlah baris dan kolom terlebih dahulu dengan memanfaatkan FOR.
   
-     Sedangkan pada soal kedua saya akan mengimplementasikan penggunaan matriks ordo 20x20 pada
+  Sedangkan pada soal kedua saya akan mengimplementasikan penggunaan matriks ordo 20x20 pada
   pembuatan tabel dengan kolom dan baris yang juga diinputkan, kemudian dengan menggunakan IF
   ELSE saya membuat program tersebut dapat mencari bilangan kelipatan 3, 5, dan, 7.
   
-     Pada pembuatan program kali ini saya menggunakan bahasa C++ dengan tools DevC++.
+  Pada pembuatan program kali ini saya menggunakan bahasa C++ dengan tools DevC++.
 
 # Soal 1
 
@@ -90,6 +90,7 @@ int main () {
 using namespace std;
 
 int main() {
+	
 	cout << "=================================================\n";
 	cout << "--------------S O A L--N O. 2--U A S-------------\n";
 	cout << "=================================================\n\n";
