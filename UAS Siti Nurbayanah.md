@@ -16,9 +16,9 @@
   
      Pada pembuatan program kali ini saya menggunakan bahasa C++ dengan tools DevC++.
 
-#Soal 1
+# Soal 1
 
-##Source Code
+## Source Code
 
 #include<iostream>
 using namespace std;
@@ -78,15 +78,13 @@ int main () {
 		
 }
 
-## Output
+# Output
 
 ![Screenshot (429)](https://user-images.githubusercontent.com/119025967/209547941-905f0ae0-fef6-429d-b800-3d42d1c4e7cb.png)
-
 
 # Soal 2
 
 ## Source Code
-
 
 #include <iostream>
 using namespace std;
