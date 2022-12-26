@@ -17,6 +17,7 @@
      Pada pembuatan program kali ini saya menggunakan bahasa C++ dengan tools DevC++.
 
 #Soal 1
+
 ##Source Code
 
 #include<iostream>
@@ -83,6 +84,7 @@ int main () {
 
 
 # Soal 2
+
 ## Source Code
 
 
