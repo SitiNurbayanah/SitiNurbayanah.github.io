@@ -80,6 +80,7 @@ int main () {
 
 ## Output
 
+![Screenshot (429)](https://user-images.githubusercontent.com/119025967/209547941-905f0ae0-fef6-429d-b800-3d42d1c4e7cb.png)
 
 
 # Soal 2
